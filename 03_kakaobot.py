@@ -7,7 +7,7 @@ import queue as q
 import os
 
 # OpenAI API KEY
-API_KEY = "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"
+API_KEY = "My API"
 openai.api_key = API_KEY
 
 ###### 기능 구현 단계 #######
